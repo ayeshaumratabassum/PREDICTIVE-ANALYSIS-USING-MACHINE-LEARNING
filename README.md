@@ -57,3 +57,7 @@ The dataset was then divided into training and testing sets using the train-test
 *CONCLUSION*
 
 This project successfully implemented a Predictive Analysis model using Machine Learning on the Titanic dataset. Through data preprocessing, feature selection, model training, and evaluation, meaningful predictions were generated. The project provided practical experience in machine learning workflows and highlighted the importance of predictive analytics in solving real-world problems across various domains such as healthcare, finance, marketing, and transportation.
+
+#OUTPUT
+
+<img width="1173" height="647" alt="Image" src="https://github.com/user-attachments/assets/54dd1ea2-3e76-4acc-a4c6-fa28d66f8f97" />
