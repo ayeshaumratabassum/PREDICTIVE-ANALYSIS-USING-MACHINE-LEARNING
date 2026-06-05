@@ -6,7 +6,7 @@
 
 *INTERN ID*: CITS589
 
-*DOMAIN*: Data Analytics
+*DOMAIN*: DATA ANALYTICS
 
 *DURATION*: 4 Weeks
 
